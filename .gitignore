@@ -304,3 +304,4 @@ temp/
 # Astro build artifacts
 docs/data-store.json
 docs/settings.json
+package-lock.json
